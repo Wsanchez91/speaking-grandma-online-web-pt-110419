@@ -4,7 +4,7 @@ if phrase == "I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMPKIN!"
   elsif phrase == phrase.downcase
   "HUH?! SPEAK UP, SONNY!"
-  else phrase == ("WHAT DID YOU EAT TODAY").upcase 
+  else phrase == phrase.upcase 
   "NO, NOT SINCE 1938!"
 end
 end
