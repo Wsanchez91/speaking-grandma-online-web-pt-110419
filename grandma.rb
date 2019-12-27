@@ -4,7 +4,7 @@ if phrase.upcase == "I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMPKIN!"
   elsif "Hi Nana, how are you?" || "HI!"
   "HUH?! SPEAK UP, SONNY!"
-  elsif "WHAT DID YOU EAT TODAY?" || "WHAT!"
+  elsif "WHAT DID YOU EAT TODAY!?" || "WHAT!?"
   "NO, NOT SINCE 1938!"
 end
 end
