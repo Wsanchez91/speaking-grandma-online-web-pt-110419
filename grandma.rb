@@ -5,7 +5,7 @@ if phrase == "I LOVE YOU GRANDMA!"
   elsif phrase == phrase.downcase
   "HUH?! SPEAK UP, SONNY!"
   else 
-    print "NO, NOT SINCE 1938!"
+    "NO, NOT SINCE 1938!"
 end
 end
 speak_to_grandma("I LOVE YOU GRANDMA!")
