@@ -7,5 +7,5 @@ if phrase.upcase == "I LOVE YOU GRANDMA!"
   elsif "WHAT DID YOU EAT TODAY?" || "WHAT!"
   "NO, NOT SINCE 1938!"
 end
-
+end
 speak_to_grandma("i love you grandma!")
